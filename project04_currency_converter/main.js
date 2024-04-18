@@ -41,6 +41,6 @@ let amount = user_answer.amount;
 // Formula of Conversion
 let base_amount = amount / from_amount; // USD base currency  
 let converted_amount = base_amount * to_amount;
-// Display the onverted 
+// Display the converted amount
 console.log(`\nConverted Amount = ${chalk.bgGreen(converted_amount.toFixed(2))}`);
 console.log(chalk.bold.greenBright("\n\n \t \t<<<================= 🚀 Thanks for using my application 🚀 ===================>>>\n\n "));
