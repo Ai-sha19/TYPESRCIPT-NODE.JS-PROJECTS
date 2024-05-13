@@ -20,7 +20,7 @@ do {
     let action = await inquirer.prompt({
         type: "list",
         name: "ans",
-        message: "Please select an optio:\n",
+        message: "Please select an option:\n",
         choices: ["Enroll a student", "Show student status"]
     });
     if (action.ans === "Enroll a student") {

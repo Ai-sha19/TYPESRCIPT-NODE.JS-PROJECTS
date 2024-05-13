@@ -1,6 +1,6 @@
 {
   "name": "a216_student_management_system",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Student Management System Application",
   "main": "main.js",
   "type": "module",
