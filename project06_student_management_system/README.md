@@ -1,19 +1,17 @@
-# Student Enrollment System 🎓
+# Student Management System 🎓
 
-Welcome to the Student Enrollment System! This command-line tool helps manage student enrollments efficiently.
+Welcome to the Student Management System! This command-line tool helps manage student enrollments efficiently.
 
 ## Installation
 
-You can install the Student Enrollment System via npm:
+You can install the Student Management System via npm:
 
-```bash
-npm i a216_student_management_system
+    npm i a216_student_management_system
 
 ## Usage
 To start managing student enrollments, run the following command in your terminal:
 
-```bash
-npx a216_student_management_system
+    npx a216_student_management_system
 
 
 Follow the on-screen prompts to enroll students, view their status, and manage enrollments.
