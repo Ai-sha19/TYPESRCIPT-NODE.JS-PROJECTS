@@ -107,3 +107,10 @@ GAME: while (gameRunning) {
   console.log(chalk.magenta("\t      # THANKS FOR PLAYING #"));
   console.log(chalk.magenta("\t  ################################\n"));
 }
+
+
+
+
+
+
+
