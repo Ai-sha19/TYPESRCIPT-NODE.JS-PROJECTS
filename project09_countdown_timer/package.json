@@ -1,0 +1,21 @@
+{
+  "name": "a216_countdown_timer",
+  "version": "1.0.1",
+  "description": "Countdown Timer Application",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aisha",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

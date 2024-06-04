@@ -8,7 +8,7 @@ You can play the Dungeon Adventure Game by executing the provided JavaScript fil
 ## Usage
 To start your adventure, simply run the following command in your terminal:
 
-node index.js
+    node index.js
 
 Follow the on-screen prompts to navigate through the dungeon, battle enemies, and collect treasures.
 
