@@ -1,6 +1,6 @@
 {
   "name": "ai_todo_list_app",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Todo List App",
   "main": "main.js",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.17"
   },
