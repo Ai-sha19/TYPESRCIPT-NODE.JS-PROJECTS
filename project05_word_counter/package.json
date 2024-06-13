@@ -1,6 +1,6 @@
 {
   "name": "ai_word_counter",
-  "version": "2.0.2",
+  "version": "3.0.2",
   "description": "Word Counter App",
   "main": "main.js",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.19"
   },

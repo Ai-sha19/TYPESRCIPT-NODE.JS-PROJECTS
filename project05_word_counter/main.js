@@ -7,11 +7,11 @@ const answers = await inquirer.prompt([
     {
         name: 'Sentence',
         type: 'input',
-        message: '\nEnter your sentence to count the word: \n'
+        message: 'Enter your sentence to count the word: '
     }
 ]);
 const words = answers.Sentence.trim().split(" ");
 // Print the array of words to the console
 console.log(words);
 // Print the word count of the sentence to the console
-console.log(`\nYour sentence word count is ${words.length}\n`);
+console.log(`Your sentence word count is ${words.length}`);
