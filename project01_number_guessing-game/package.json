@@ -1,6 +1,6 @@
 {
   "name": "a21_cli_number_guessing_game",
-  "version": "2.0.1",
+  "version": "3.0.1",
   "description": "This is cli based number guessing game",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
   },
