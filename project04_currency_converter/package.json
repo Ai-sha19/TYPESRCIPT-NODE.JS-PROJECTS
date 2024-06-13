@@ -1,6 +1,6 @@
 {
   "name": "a_currency_convertor_app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Currency Convertor Application",
   "main": "main.js",
   "type": "module",
